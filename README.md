@@ -32,30 +32,31 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 ![img](pics/KEST/sala_users.png)
 #### Users in (Yfirstjorn) group.
 ![img](pics/KEST/yfirstjorn_users.png)
-#### This picture here shows all the users at once.
+#### This picture here shows that all the users are in the (Allir) group.
 ![img](pics/KEST/allir_users.png)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
+#### This picture proofs that the users are active currntly.
+![img](pics/KEST/proof_that_users_are-active.png)
+#### This is a seconed proof are users are active.
+![img](pics/KEST/proof2_that_users_are_enabled.png)
+### Now in the next 9 pictures you will see information that includes everything you need to know about the users one by one.
+#### This is for the user (GudEir).
+![img](pics/KEST/proof_out_og_GudEir.png)
+#### This is for the user (AsdMag).
+![img](pics/KEST/proof_out_of_AsdMag.png)
+#### This is for the user (BalBal).
+![img](pics/KEST/proof_out_of_BalBal.png)
+#### This is for the user (EvaMar).
+![img](pics/KEST/proof_out_of_EvaMar.png)
+#### This is for the user (GudBja).
+![img](pics/KEST/proof_out_of_GudBja.png)
+#### This is for the user (KriSno).
+![img](pics/KEST/proof_out_of_KriSno.png)
+#### This is for the user (OlaLei).
+![img](pics/KEST/proof_out_of_OlaLei.png)
+#### This is for the user (PerSte).
+![img](pics/KEST/proof_out_of_PerSte.png)
+#### This is for the user (VilTra).
+![img](pics/KEST/proof_out_of_VilTra.png)
 #### 
 ![img](pics/KEST/)
 #### 
