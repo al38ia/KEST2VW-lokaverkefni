@@ -14,5 +14,60 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 
 ## *Here are the pictures that show my windows project* 
 
+#### This image shows that the groups have been created.
+![img](pics/KEST/groups.png)
+#### This image is to show that (GÖGN) have been created and its content.
+![img](pics/KEST/files_in_gögn.png)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+#### 
+![img](pics/KEST/)
+
 
 
