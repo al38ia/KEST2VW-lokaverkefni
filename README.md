@@ -57,10 +57,10 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 ![img](pics/KEST/proof_out_of_PerSte.png)
 #### This is for the user (VilTra).
 ![img](pics/KEST/proof_out_of_VilTra.png)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
+#### This picture shows the password has been set to min-length (8) columns.
+![img](pics/KEST/password_min_length_is8.png)
+#### This is from the firewall part and shwos that pings are allowed.
+![img](pics/KEST/ping_is_allowed.png)
 #### 
 ![img](pics/KEST/)
 #### 
