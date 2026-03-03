@@ -1,5 +1,5 @@
 # KEST2VW-lokaverkefni
------------------------------
+
 # JOURNAL
 
 These past few days I’ve been working through steps 2, 3, and 4 of the KEST2VW final project, and honestly, it’s been a mix of confusion, trial-and-error, and small victories. I started by getting my Windows 11 virtual machine ready. I installed Python, Git, and VS Code since those were required, and made sure everything was working before moving on. Once the basics were set up, I began working on the user management part, which ended up taking way longer than I expected.
@@ -11,4 +11,8 @@ Next came the folders and permissions. I created a folder called “Gögn” on 
 After that, I moved on to the security settings. I opened the Local Security Policy tool and changed the password rules so the minimum length was 8 characters and password complexity was required. I tested this by trying to change a user's password to something weak just to see if Windows blocked it, and it did. Then I configured the firewall. I set it so all incoming network traffic was blocked except ICMP (ping), because the assignment said ping should still work. Once I applied the rule, I tested it with ping to make sure the machine still responded.
 
 By the end of all this, I had steps 2 through 4 fully done. It took time, and I ran into a bunch of small issues, but everything works now and I feel a lot more confident with PowerShell, user management, and Windows permissions than when I started.
---------------------------------
+
+## *Here are the pictures that show my windows project* 
+
+
+
