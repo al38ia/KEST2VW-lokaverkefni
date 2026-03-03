@@ -18,8 +18,8 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 ![img](pics/KEST/groups.png)
 #### This image is to show that (GÖGN) have been created and its content.
 ![img](pics/KEST/files_in_gögn.png)
-#### 
-![img](pics/KEST/)
+#### This image shows that (GÖGN) has the right content in it.
+![img](pics/KEST/folders_in_gogn.png)
 #### 
 ![img](pics/KEST/)
 #### 
