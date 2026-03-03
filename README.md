@@ -20,22 +20,20 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 ![img](pics/KEST/files_in_gögn.png)
 #### This image shows that (GÖGN) has the right content in it.
 ![img](pics/KEST/folders_in_gogn.png)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
-#### 
-![img](pics/KEST/)
+#### The next 4 images shows the (txt.file) that is with in the files in (GÖGN).
+![img](pics/KEST/innkauptxt.png)
+![img](pics/KEST/salatxt.png)
+![img](pics/KEST/sameigntxt.png)
+![img](pics/KEST/yfirstjorntxt.png)
+### This here shows the groups and the users that belongs to that group.
+#### Users in (Innkaup) group.
+![img](pics/KEST/innkaup_users.png)
+#### Users in (Sala) group.
+![img](pics/KEST/sala_users.png)
+#### Users in (Yfirstjorn) group.
+![img](pics/KEST/yfirstjorn_users.png)
+#### This picture here shows all the users at once.
+![img](pics/KEST/allir_users.png)
 #### 
 ![img](pics/KEST/)
 #### 
