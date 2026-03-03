@@ -61,7 +61,7 @@ By the end of all this, I had steps 2 through 4 fully done. It took time, and I 
 ![img](pics/KEST/password_min_length_is8.png)
 #### This is from the firewall part and shwos that pings are allowed.
 ![img](pics/KEST/ping_is_allowed.png)
-#### This image shows that the inpund connections are blocked by default.
+#### This image shows that the inpound connections are blocked by default.
 ![img](pics/KEST/shows_that_inpound_connections_are_blocked_by_default.png)
 ### The next 2 images are for the apps that we were required to download on the VM.
 #### This shows that ive downloaded (VScode)-(Python).
